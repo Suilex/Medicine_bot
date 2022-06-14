@@ -1,0 +1,7 @@
+nltk==3.7
+numpy==1.22.3
+pandas==1.4.2
+pymorphy2==0.9.1
+scikit-learn==1.0.2
+plotly==5.8.0
+mariadb==1.0.11
